@@ -106,5 +106,3 @@ We welcome contributions! If you have any ideas or improvements, feel free to fo
 ## 🎉 Let's Code and Learn Python Together! 💡💻
 
 ---
-
-This README is designed to be both informative and engaging, highlighting the key topics of your bootcamp while making it easy for users to get started.
